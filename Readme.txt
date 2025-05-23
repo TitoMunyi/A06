@@ -1,1 +1,2 @@
 Llegeix-me
+ara mateix
