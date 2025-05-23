@@ -1,0 +1,14 @@
+c:\Users\ferran\Documents\Els meus treballs de codi\Entorns de desenvolupament\A06\Tasca 1\bin\Debug\net9.0\Tasca 1.exe
+c:\Users\ferran\Documents\Els meus treballs de codi\Entorns de desenvolupament\A06\Tasca 1\bin\Debug\net9.0\Tasca 1.deps.json
+c:\Users\ferran\Documents\Els meus treballs de codi\Entorns de desenvolupament\A06\Tasca 1\bin\Debug\net9.0\Tasca 1.runtimeconfig.json
+c:\Users\ferran\Documents\Els meus treballs de codi\Entorns de desenvolupament\A06\Tasca 1\bin\Debug\net9.0\Tasca 1.dll
+c:\Users\ferran\Documents\Els meus treballs de codi\Entorns de desenvolupament\A06\Tasca 1\bin\Debug\net9.0\Tasca 1.pdb
+c:\Users\ferran\Documents\Els meus treballs de codi\Entorns de desenvolupament\A06\Tasca 1\obj\Debug\net9.0\Tasca 1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ferran\Documents\Els meus treballs de codi\Entorns de desenvolupament\A06\Tasca 1\obj\Debug\net9.0\Tasca 1.AssemblyInfoInputs.cache
+c:\Users\ferran\Documents\Els meus treballs de codi\Entorns de desenvolupament\A06\Tasca 1\obj\Debug\net9.0\Tasca 1.AssemblyInfo.cs
+c:\Users\ferran\Documents\Els meus treballs de codi\Entorns de desenvolupament\A06\Tasca 1\obj\Debug\net9.0\Tasca 1.csproj.CoreCompileInputs.cache
+c:\Users\ferran\Documents\Els meus treballs de codi\Entorns de desenvolupament\A06\Tasca 1\obj\Debug\net9.0\Tasca 1.dll
+c:\Users\ferran\Documents\Els meus treballs de codi\Entorns de desenvolupament\A06\Tasca 1\obj\Debug\net9.0\refint\Tasca 1.dll
+c:\Users\ferran\Documents\Els meus treballs de codi\Entorns de desenvolupament\A06\Tasca 1\obj\Debug\net9.0\Tasca 1.pdb
+c:\Users\ferran\Documents\Els meus treballs de codi\Entorns de desenvolupament\A06\Tasca 1\obj\Debug\net9.0\Tasca 1.genruntimeconfig.cache
+c:\Users\ferran\Documents\Els meus treballs de codi\Entorns de desenvolupament\A06\Tasca 1\obj\Debug\net9.0\ref\Tasca 1.dll
