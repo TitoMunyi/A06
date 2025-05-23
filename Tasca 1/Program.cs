@@ -7,7 +7,7 @@ foreach (int m in multiples)
 {
     Console.WriteLine(m);
 }
-
+bool boleana = true;
 internal static class Metodes
 {
     public static List<int> ComptadorMultiples(int v)
