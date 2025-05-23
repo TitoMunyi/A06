@@ -1,7 +1,7 @@
 ﻿int valor = int.Parse(Console.ReadLine());
 // Comprovar que el valor és positiu
 List<int> multiples = Metodes.ComptadorMultiples(valor);
-
+Console.WriteLine("Linux és millor");
 Console.WriteLine("Multiples de 7 menors que " + valor + ":");
 foreach (int m in multiples)
 {
